@@ -5,8 +5,6 @@ main:
     url: /research/
   - title: "Teaching"
     url: /teaching/
-  - title: "Students"  # 这个是未编辑项，删除它
-    url: /students/
   - title: "CV"
     url: /cv/
   # 添加 Activities
