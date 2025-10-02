@@ -71,4 +71,4 @@ For full details, visit my [Teaching page](/teaching/). Summary:
 
 For extracurricular activities and personal interests, see my [Activities page](/activities/).  
 
-[Download PDF Version](/assets/cv_muyu_zhang.pdf)  # 如果您上传PDF到assets文件夹，可以添加这个链接
+[Download PDF Version](/assets/cv_muyu_zhang.pdf) 
