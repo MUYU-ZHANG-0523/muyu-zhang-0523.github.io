@@ -7,15 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Jian Tang's Homepage"
+title                    : "Muyu Zhang's Homepage"
 title_separator          : "-"
-name                     : &name "Jian Tang"
-description              : &description "Assitant Professor"
-description              : &description "HEC Montreal"
-description              : &description "Montreal Institute for Learning Alogorithms (MILA)"
-url                      : https://tangjianpku.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Muyu Zhang"
+description              : &description "Master Student in Department of Mechanics and Aerospace Engineering, Southern University of Science and Technology (SUSTech)"
+url                      : https://muyu-zhang-0523.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "tangjianpku/tangjianpku.github.io"
+repository               : "muyu-zhang-0523/muyu-zhang-0523.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -26,10 +24,6 @@ comments:
     shortname            :
   discourse:
     server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
-  facebook:
-    appid                :
-    num_posts            : # 5 (default)
-    colorscheme          : # "light" (default), "dark"
 staticman:
   allowedFields          : ['name', 'email', 'url', 'message']
   branch                 : "gh-pages" # "master", "gh-pages"
@@ -73,48 +67,28 @@ social:
 
 # Analytics
 analytics:
-  provider               :  "google-universal" # false (default), "google", "google-universal", "custom"
+  provider               :  "false" # false (default), "google", "google-universal", "custom"
   google:
     tracking_id          :
 
 
 # Site Author
 author:
-  name             : "Dr. Jian Tang"
-  avatar           : "jian.jpg"
+  name             : "Mr. Muyu Zhang"
+  avatar           : "/assets/img/muyu.jpg"
   bio              : |
-    Assistant Professor, <br>
-    HEC Montreal <br>
-    Montreal Institute for Learning Alogorithms (MILA)
-  location         : "Montreal, Canada"
-  employer         :
-  googlescholar    : "https://scholar.google.com/citations?user=1ir6WUEAAAAJ&hl=en"
-  email            :
-  uri              :
-  bitbucket        :
-  codepen          :
-  dribbble         :
-  flickr           :
-  facebook         :
-  foursquare       :
-  github           : "tangjianpku"
-  google_plus      :
-  keybase          :
-  instagram        :
-  lastfm           :
-  linkedin         :
-  orcid            : 
-  pinterest        :
-  soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
-  steam            :
-  tumblr           :
-  twitter          : "tangjianpku"
-  vine             :
-  weibo            : "1741301241/profile?rightmod=1&wvr=6&mod=personinfo&is_all=1"
-  xing             :
-  youtube          :
-  wikipedia        :
+    Master Student in Theoretical and Applied Mechanics,  
+    Department of Mechanics and Aerospace Engineering,  
+    Southern University of Science and Technology (SUSTech).  
+    Passionate about nanoscale mechanics, materials science, and innovative research.  
+    Seeking PhD opportunities in related fields.  # 这里是您的个人简介，可以自定义（多行用|和缩进）
+  location         : "Shenzhen, China"
+  employer         : "SUSTech" #如果要添加谷歌学术在这里另起一行加，以及uri
+  email            : "12332533@mail.sustech.edu.cn"
+  github           : "muyu-zhang-0523"
+  linkedin         : "Muyu Zhang"
+  orcid            : "0009-0003-8837-3644"
+
 
 
 # Reading Files
@@ -180,17 +154,16 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
-  portfolio:
+  research:     
     output: true
-    permalink: /:collection/:path/
-  talks:
+    permalink: /:collection/:path/    #这里还需要再defaults里修改对应的 
+  activities:
     output: true
-    permalink: /:collection/:path/
+    permalink: /:collection/:path/    #以及这个
 
 
-# Defaults
 defaults:
-  # _posts
+  # _posts (保持原样)
   - scope:
       path: ""
       type: posts
@@ -201,14 +174,14 @@ defaults:
       comments: true
       share: true
       related: true
-  # _pages
+  # _pages (保持原样)
   - scope:
       path: ""
       type: pages
     values:
       layout: single
       author_profile: true
-  # _teaching
+  # _teaching (保持原样)
   - scope:
       path: ""
       type: teaching
@@ -217,7 +190,7 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _publications
+  # _publications (保持原样)
   - scope:
       path: ""
       type: publications
@@ -225,24 +198,27 @@ defaults:
       layout: single
       author_profile: true
       share: true
-      comments: true
-  # _portfolio
+      comments: false
+  # 添加 _research
   - scope:
       path: ""
-      type: portfolio
+      type: research
     values:
       layout: single
       author_profile: true
       share: true
-      comment: true
-  # _talks
+      comments: false  # 可根据需要调整
+  # 添加 _activities
   - scope:
       path: ""
-      type: talks
+      type: activities
     values:
-      layout: talk
+      layout: single
       author_profile: true
       share: true
+      comments: false  # 可根据需要调整
+
+
 
 # Sass/SCSS
 sass:
