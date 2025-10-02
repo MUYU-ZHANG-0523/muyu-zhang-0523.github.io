@@ -81,7 +81,7 @@ author:
     Department of Mechanics and Aerospace Engineering,  
     Southern University of Science and Technology (SUSTech).  
     Passionate about nanoscale mechanics, materials science, and innovative research.  
-    Seeking PhD opportunities in related fields.  # 这里是您的个人简介，可以自定义（多行用|和缩进）
+    Seeking PhD opportunities in related fields.
   location         : "Shenzhen, China"
   employer         : "SUSTech" #如果要添加谷歌学术在这里另起一行加，以及uri
   email            : "12332533@mail.sustech.edu.cn"

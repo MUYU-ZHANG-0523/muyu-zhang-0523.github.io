@@ -1,26 +1,14 @@
-# main links links
 main:
   - title: "Publications"
     url: /publications/
-
-  - title: "Projects"
-    url: /projects/
-
-  - title: "Softwares"
-    url: /softwares/
-
-  - title: "Talks"
-    url: /talks/    
-
+  - title: "Research"
+    url: /research/
   - title: "Teaching"
     url: /teaching/
-    
-  - title: "Students"
+  - title: "Students"  # 这个是未编辑项，删除它
     url: /students/
-
-  - title: "Services"
-    url: /services/
-    
   - title: "CV"
     url: /cv/
-    
+  # 添加 Activities
+  - title: "Activities"
+    url: /activities/
