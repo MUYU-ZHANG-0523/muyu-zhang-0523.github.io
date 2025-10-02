@@ -24,7 +24,7 @@ permalink: /publications/
 # Undergraduate Thesis
 * Muyu Zhang. “介电弹性体驱动的柔性可变焦菲涅尔透镜研究” (Dielectric Elastomer-Driven Flexible Variable-Focus Fresnel Lens Research).  
   Bachelor's Thesis, Southern University of Science and Technology (SUSTech), 2023.  
-  - [Download Thesis PDF](/files/thesis.pdf)  
-  - [Download Defense PPT](/files/thesis-presentation.ppt)  
+  - [Download Thesis PDF](/files/thesis/thesis.pdf)  
+  - [Download Defense PPT](/files/thesis/thesis-presentation.ppt)  
 
 
