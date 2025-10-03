@@ -14,7 +14,7 @@ description              : &description "Master Student in Department of Mechani
 url                      : https://muyu-zhang-0523.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "muyu-zhang-0523/muyu-zhang-0523.github.io"
-teaser                   : "/assets/img/muyu3.svg" # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
+teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 read_more                : "disabled" # if enabled, adds "Read more" links to excerpts
@@ -75,7 +75,7 @@ analytics:
 # Site Author
 author:
   name             : "Mr. Muyu Zhang"
-  avatar           : "/assets/img/muyu3.svg"
+  avatar           : "muyu2.jpg"
   bio              : |
     Master Student in Theoretical and Applied Mechanics,  
     Department of Mechanics and Aerospace Engineering,  
