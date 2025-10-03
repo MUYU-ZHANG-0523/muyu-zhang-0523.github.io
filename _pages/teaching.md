@@ -9,7 +9,7 @@ author_profile: true  # 显示侧边栏作者信息
 As a Master's student at Southern University of Science and Technology (SUSTech), I have served as a Teaching Assistant (TA) in multiple courses, gaining experience in facilitating student learning, grading, project supervision, and coordinating hands-on activities. These roles have allowed me to develop skills in technical feedback, industry collaboration, and guiding interdisciplinary projects in mechanics and materials science. Below is a summary of my teaching experiences.
 
 ## Teaching Assistant of Elasticity (Feb 2025 - Jun 2025)
-![Metamaterial Design Diagram](/assets/img/elasticity-2025-svg.svg)  
+![Metamaterial Design Diagram](/assets/img/elasticity-2025.svg)  
 - **Institution**: Southern University of Science and Technology (SUSTech), Shenzhen, China  
 - **Description**: Assisted in teaching the Elasticity course, focusing on advanced concepts in mechanics.  
 - **Responsibilities and Contributions**:  
