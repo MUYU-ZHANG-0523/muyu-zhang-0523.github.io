@@ -49,6 +49,11 @@ bing_site_verification   :
 alexa_site_verification  :
 yandex_site_verification :
 
+compress_html:
+  clippings: all
+  ignore:
+    envs: development
+
 # Social Sharing
 twitter:
   username               : &twitter
