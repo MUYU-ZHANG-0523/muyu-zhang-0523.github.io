@@ -21,8 +21,7 @@ Department of Mechanics and Aerospace Engineering, SUSTech
 Prof. [Canhui Yang](https://faculty.sustech.edu.cn/?tagid=yangch&orderby=date&iscss=1&snapid=1&go=2&lang=en), Associate professor
 Department of Mechanics and Aerospace Engineering, SUSTech
 
-Research Interests
-======
+## Research Interests
 * Contact mechanics
 * TEM methods
 * Precision processing of optical materials
