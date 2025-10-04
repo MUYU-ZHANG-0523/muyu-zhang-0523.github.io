@@ -14,11 +14,13 @@ My strengths include extensive experimental skills (proficient in TEM, FIB-SEM, 
 
 ## Advisors
 **Current Advisor (Master's):**
-Prof. [Liangchi Zhang](https://faculty.sustech.edu.cn/?tagid=zhanglc&iscss=1&snapid=1&orderby=date&go=2&lang=en), Chair Professor
+Prof. [Liangchi Zhang](https://faculty.sustech.edu.cn/?tagid=zhanglc&iscss=1&snapid=1&orderby=date&go=2&lang=en), Chair Professor,
+
 Department of Mechanics and Aerospace Engineering, SUSTech
 
 **Undergraduate Advisor:**
-Prof. [Canhui Yang](https://faculty.sustech.edu.cn/?tagid=yangch&orderby=date&iscss=1&snapid=1&go=2&lang=en), Associate professor
+Prof. [Canhui Yang](https://faculty.sustech.edu.cn/?tagid=yangch&orderby=date&iscss=1&snapid=1&go=2&lang=en), Associate professor,
+
 Department of Mechanics and Aerospace Engineering, SUSTech
 
 ## Research Interests
