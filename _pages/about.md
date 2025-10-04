@@ -12,12 +12,21 @@ Muyu Zhang is a Master's student in Theoretical and Applied Mechanics at the [De
 
 My strengths include extensive experimental skills (proficient in TEM, FIB-SEM, nanoindentation, and tribometry), simulation expertise (ANSYS, COMSOL, ABAQUS, LAMMPS), and teaching experience (served as TA for 3 courses, guiding student projects on metamaterial design and additive manufacturing). I also gained practical engineering insights from an internship at China Aero Engine Research Institute, designing combustor components using finite element analysis. These experiences have honed my rigorous research approach, interdisciplinary collaboration, and problem-solving abilities. Currently, I am seeking PhD opportunities in mechanics, materials science, or related fields—please feel free to contact me for discussions or recommendations.
 
+## Advisors
+**Current Advisor (Master's):**
+Prof. [Liangchi Zhang](https://faculty.sustech.edu.cn/?tagid=zhanglc&iscss=1&snapid=1&orderby=date&go=2&lang=en), Chair Professor
+Department of Mechanics and Aerospace Engineering, SUSTech
+
+**Undergraduate Advisor:**
+Prof. [Canhui Yang](https://faculty.sustech.edu.cn/?tagid=yangch&orderby=date&iscss=1&snapid=1&go=2&lang=en), Associate professor
+Department of Mechanics and Aerospace Engineering, SUSTech
 
 Research Interests
 ======
 * Contact mechanics
 * TEM methods
 * Precision processing of optical materials
+* Chemical mechanical polishing (CMP)
 * Molecular dynamics
 * Fracture mechanics
 * Metal additive manufacturing
