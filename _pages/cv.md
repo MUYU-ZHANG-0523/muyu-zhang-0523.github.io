@@ -61,7 +61,7 @@ For full details, visit my [Teaching page](/teaching/). Summary:
 - **Scholarships**: Most Improved Student Award (2020-2021), Third Class Merit Student Scholarship (2021-2022), Graduate Student First-Class Scholarships (2023-2024 & 2023-2025), all at SUSTech.  
 
 ## Languages
-- English: IELTS 6.5  
+- English: IELTS 6.5 (currently preparing for higher score)  
 - Mandarin Chinese: Native  
 
 ## Skills
