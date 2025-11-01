@@ -12,12 +12,12 @@ permalink: /publications/
 # Under Revision or In Preparation
 * Zhang, M., Li, Z., Zhang, L. “Thermally Assisted Nanoscratching of Monocrystalline Silicon up to 800℃: Tribology and Subsurface Transformations.”  
   Manuscript under revision, *Wear*.
-  [Download Manuscript PDF](/files/thesis/Thermally_Silicon.pdf)
+  - [Download Manuscript PDF](/files/thesis/Thermally_Silicon.pdf)
 
 * Zhang, L., Gain, A.K., Zhang, M., Huang, X. “Nano-Plasticity of Fused Silica under Coupled Thermo-Mechanical Loading.”  
   Manuscript under revision, *Acta Materialia*.
-  [Download Manuscript PDF](/files/thesis/Fused_Silica.pdf)
-  [Download Appendix PDF](/files/thesis/Fused_Silica_Appendix.pdf)
+  - [Download Manuscript PDF](/files/thesis/Fused_Silica.pdf)
+  - [Download Appendix PDF](/files/thesis/Fused_Silica_Appendix.pdf)
 
 # Additional Contributions
 These are publications where I contributed to TEM and FIB analysis aspects but was not listed as a co-author, per group policy for non-major contributions.
