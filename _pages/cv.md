@@ -67,7 +67,7 @@ For full details, visit my [Teaching page](/teaching/). Summary:
 ## Skills
 - **Programming Languages**: Python, MATLAB, Java  
 - **Simulation Software**: ANSYS, COMSOL Multiphysics, ABAQUS, LAMMPS (Molecular Dynamics)  
-- **Experimental Equipment**: Extensive experience with FIB-SEM, SEM, TEM, Nanoindentation, Tribometer, Universal Testing Machine, and 3D Printing systems (>200 hours on key instruments).  
+- **Experimental Equipment**: Extensive experience with FIB-SEM(>200 hours), SEM, TEM(>200 hours), Nanoindentation, Tribometer, Universal Testing Machine, and 3D Printing systems.  
 
 For extracurricular activities and personal interests, see my [Activities page](/activities/).  
 
