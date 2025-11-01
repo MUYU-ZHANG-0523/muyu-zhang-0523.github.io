@@ -29,10 +29,10 @@ author_profile: true  # 显示侧边栏作者信息
 
 ## Publications
 - Zhang, M., Li, Z., Zhang, L. “Thermally Assisted Nanoscratching of Monocrystalline Silicon up to 800℃: Tribology and Subsurface Transformations.”  
-  Manuscript under revision, *Tribology International*.  
+  Manuscript under revision, *Wear*.  
 
-- Zhang, L., Gain, A.K., Zhang, M., Huang, X. “Densification-dominated Plasticity in Fused Silica under Nanoscale Thermo-mechanical Deformation.”  
-  Manuscript in preparation, targeting *Nature Communications*.  
+- Zhang, L., Gain, A.K., Zhang, M., Huang, X. “Nano-Plasticity of Fused Silica under Coupled Thermo-Mechanical Loading.”  
+   Manuscript under revision, *Acta Materialia*.  
 
 - Huang, Y., Zeng, Y., Ruan, H., Zhang, M., Xue, Q., Zhou, W., Hong, W., Yang, C. “Polyelectrolyte elastomer-based ionotronic electro-mechano-optical devices.”  
   DOI: [10.1002/smll.202502225](https://doi.org/10.1002/smll.202502225) *Small*.  
