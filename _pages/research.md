@@ -39,7 +39,7 @@ Below is a summary of my key research projects, publications, and patents.
 ## Past Projects
 
 ### Nanoscale Characterization of Fused Silica Densification Using NBED (Sept 2024 - Apr 2025)
-![Fused Silica Densification Map](/assets/img/fused-silica-svg.svg)  
+![Fused Silica Densification Map](/assets/img/fs_ga.svg)  
 - **Advisor**: Chair Prof. Liangchi Zhang, Shenzhen Key Laboratory of Cross-scale Manufacturing Mechanics, SUSTech  
 - **Description**: Fused silica, a key material in controlled nuclear fusion optical devices, often suffers from crack damage under high-energy flux due to processing defects. Prior studies have identified that plastic deformation and defects during precision machining primarily stem from densification in micro- and nanoscale structures under high stress. However, limitations in measurement techniques have prevented accurate mapping of densification distributions, forcing reliance on molecular dynamics simulations for constitutive relations in finite element modeling of fused silica polishing. Inspired by the Debye scattering equation from solid-state physics textbooks for inverting reduced density distributions, combined with nano-beam electron diffraction (NBED) capable of focusing beam spots to ~1 nm, this project develops a method to invert the densification distribution in fused silica post-loading. Through experiments, we achieved the first accurate mapping of stress-induced densification, revealing that the densification distribution aligns with von Mises stress patterns, with uniform densification occurring without further yielding, indicating ideal elastic-perfectly plastic behavior. This enabled the derivation of the material's constitutive relations.  
 - **Contributions**: Advanced mechanistic understanding of glass deformation under extreme conditions by constructing a temperature-dependent constitutive model that captures densification-induced plasticity. Key findings include a nearly constant density in the plastic zone, a sharp density gradient at the elastic-plastic boundary, linear decreases in yield stress and hardness with temperature, and an unusual increase in elastic modulus (combining thermal softening and stiffening). This provides a predictive framework for manufacturing high-integrity oxide glass components.  
@@ -48,7 +48,7 @@ Below is a summary of my key research projects, publications, and patents.
 
 
 ### Thermally-Assisted Nanoscratching of Monocrystalline Silicon (Sept 2023 - Apr 2025)
-![Silicon Nanoscratching Temperature Curve](/assets/img/thermal-nanoscratching-svg.svg)  
+![Silicon Nanoscratching Temperature Curve](/assets/img/hts_ga.svg)  
 - **Advisor**: Chair Prof. Liangchi Zhang, Shenzhen Key Laboratory of Cross-scale Manufacturing Mechanics, SUSTech  
 - **Description**: Prior studies have shown that high temperatures can induce amorphization followed by recrystallization in monocrystalline silicon. Motivated by this, the project explores whether elevated-temperature processing can reduce defects caused by amorphization phase transformations. Experiments were conducted from room temperature up to 800°C to investigate material removal and subsurface defects under thermo-mechanical coupling.  
 - **Contributions**: Identified brittle-to-ductile transition behaviors and determined that 600°C is the optimal temperature, where amorphization dramatically decreases without introducing new defects, leading to minimal subsurface damage. 
