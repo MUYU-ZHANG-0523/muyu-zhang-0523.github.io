@@ -23,6 +23,11 @@ Prof. [Canhui Yang](https://faculty.sustech.edu.cn/?tagid=yangch&orderby=date&is
 
 Department of Mechanics and Aerospace Engineering, SUSTech
 
+**Undergraduate Life Mentor:**
+Prof. [Liusuo Wu](https://sustech.edu.cn/en/faculties/wuliusuo.html), Associate professor,
+
+Department of Physics, SUSTech 
+
 ## Research Interests
 * Contact mechanics
 * TEM methods
