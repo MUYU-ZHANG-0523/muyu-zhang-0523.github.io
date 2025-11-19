@@ -11,11 +11,11 @@ permalink: /publications/
 
 # Under Revision or In Preparation
 * Zhang, M., Li, Z., Zhang, L. “Thermally Assisted Nanoscratching of Monocrystalline Silicon up to 800℃: Tribology and Subsurface Transformations.”  
-  Manuscript under revision, *Wear*.
+  Manuscript under review, *Wear*.
   - [Download Manuscript PDF](/files/thesis/Thermally_Silicon.pdf)
 
 * Zhang, L., Gain, A.K., Zhang, M., Huang, X. “Nano-Plasticity of Fused Silica under Coupled Thermo-Mechanical Loading.”  
-  Manuscript under revision, *Nature Communications*.
+  Manuscript under review, *Nature Communications*.
   - [Download Manuscript PDF](/files/thesis/Fused_Silica.pdf)
   - [Download Appendix PDF](/files/thesis/Fused_Silica_Appendix.pdf)
 
