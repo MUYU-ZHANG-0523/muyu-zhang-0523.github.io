@@ -15,7 +15,7 @@ permalink: /publications/
   - [Download Manuscript PDF](/files/thesis/Thermally_Silicon.pdf)
 
 * Zhang, L., Gain, A.K., Zhang, M., Huang, X. “Nano-Plasticity of Fused Silica under Coupled Thermo-Mechanical Loading.”  
-  Manuscript under revision, *Acta Materialia*.
+  Manuscript under revision, *Nature Communications*.
   - [Download Manuscript PDF](/files/thesis/Fused_Silica.pdf)
   - [Download Appendix PDF](/files/thesis/Fused_Silica_Appendix.pdf)
 
