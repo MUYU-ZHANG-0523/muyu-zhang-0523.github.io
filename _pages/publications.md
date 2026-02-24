@@ -15,9 +15,23 @@ permalink: /publications/
   - [Download Manuscript PDF](/files/thesis/Thermally_Silicon.pdf)
 
 * Zhang, L., Gain, A.K., Zhang, M., Huang, X. “Nano-Plasticity of Fused Silica under Coupled Thermo-Mechanical Loading.”  
-  Manuscript under review, *Nature Communications*.
+  Manuscript under review, *International Journal of Mechanical Sciences*.
   - [Download Manuscript PDF](/files/thesis/Fused_Silica.pdf)
   - [Download Appendix PDF](/files/thesis/Fused_Silica_Appendix.pdf)
+
+* W. Zhao, Z. Li, ..., M. Zhang,, ..., F. Pan. “Origin of crack propagation in LiCoO2 cathode.”
+  In Revision, *Nature Communications*.
+  - [Download Manuscript PDF](/files/thesis/Origin of crack.pdf)
+  - [Download Appendix PDF](/files/thesis/Origin of crack_supp.pdf)
+  
+ * M. Zhang, L. Zhang. “Subsurface damage evolution and material removal mechanism of monocrystalline silicon in ultrasonic vibration-assisted scratching: An experimental study.”
+   Manuscript in preparation.
+
+* Y. Li, M. Zhang, L. Zhang. “Atomistic Insights into Material Removal and Subsurface Damage in Tangential Ultrasonic Vibration–Assisted Machining of Monocrystalline Silicon.”
+  Manuscript in preparation.
+
+* Gain, A.K.,Zhang, M., Huang, X., Zhang, L. “Achieving Strength-Toughness Synergy in 3D Printed Stainless Steel through TiB2-Induced Grain Reffnement”
+  Manuscript in preparation.
 
 # Additional Contributions
 These are publications where I contributed to TEM and FIB analysis aspects but was not listed as a co-author, per group policy for non-major contributions.
