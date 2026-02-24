@@ -13,6 +13,14 @@ Below is a summary of my key research projects, publications, and patents.
 
 ## Current and Ongoing Projects
 
+### Synergistic Strengthening and Toughening of Additively Manufactured Stainless Steel via TiB2 Inoculation (Sept 2025 - Present)
+![SS Schematic](/assets/img/ss.svg)  
+- **Advisor**: Chair Prof. Liangchi Zhang, Shenzhen Key Laboratory of Cross-scale Manufacturing Mechanics, SUSTech  
+- **Description**: This project addresses the classic strength-ductility trade-off in Selective Laser Melting (SLM) of stainless steel. While traditional metal matrix composites often suffer from embrittlement due to ceramic additions, this study investigates the role of TiB2 particles not just as reinforcements, but as effective grain refiners during rapid solidification. By promoting a columnar-to-equiaxed transition (CET), the addition of TiB2 significantly refines the grain structure. The research demonstrates that this microstructural engineering leads to a simultaneous enhancement of tensile strength and fracture toughness, challenging the conventional inverse relationship between these properties in additively manufactured metals.
+- **Contributions**: Successfully decoupled the strength-toughness trade-off in SLM-fabricated steel; elucidated the mechanism of particle-induced grain refinement for high-performance metal matrix composites.
+- **Methods**: Fabricated TiB2/Stainless Steel nanocomposites using SLM technology. Employed Electron Backscatter Diffraction (EBSD) to quantify grain size reduction and crystallographic texture evolution. Utilized Transmission Electron Microscopy (TEM) to characterize the coherent interface between TiB2 particles and the steel matrix, as well as dislocation pile-ups. Conducted tensile testing and fracture toughness assessments to validate mechanical performance.
+- **Status**: Manuscript in preparation.
+
 ### National Natural Science Foundation of China (NSFC) Major Program: High-Performance Manufacturing Fundamentals for Critical Optical Components (Sept 2023 - Present)
 - **Advisor**: Chair Prof. Liangchi Zhang, Shenzhen Key Laboratory of Cross-scale Manufacturing Mechanics, SUSTech  
 - **Funding**: ¥3.28 million RMB (∼450,000 USD)  
