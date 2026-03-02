@@ -26,6 +26,7 @@ permalink: /publications/
   
  * M. Zhang, L. Zhang. “Subsurface damage evolution and material removal mechanism of monocrystalline silicon in ultrasonic vibration-assisted scratching: An experimental study.” 
    Manuscript in preparation.
+   - [Download Manuscript PDF](/files/thesis/VAM-silicon.pdf)
 
 * Y. Li, M. Zhang, L. Zhang. “Atomistic Insights into Material Removal and Subsurface Damage in Tangential Ultrasonic Vibration–Assisted Machining of Monocrystalline Silicon.” 
   Manuscript in preparation.
