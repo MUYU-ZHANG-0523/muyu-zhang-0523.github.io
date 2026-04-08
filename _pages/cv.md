@@ -29,15 +29,16 @@ author_profile: true  # 显示侧边栏作者信息
 
 ## Publications
 - Zhang, M., Li, Z., Zhang, L. “Thermally Assisted Nanoscratching of Monocrystalline Silicon up to 800℃: Tribology and Subsurface Transformations.”  
-  Manuscript under revision, *Wear*. 
-  (PDF files are available on my [Publications page](/publications/))
+  DOI: [10.1016/j.wear.2026.206707](https://doi.org/10.1016/j.wear.2026.206707) *Wear*.
+
+  - Huang, Y., Zeng, Y., Ruan, H., Zhang, M., Xue, Q., Zhou, W., Hong, W., Yang, C. “Polyelectrolyte elastomer-based ionotronic electro-mechano-optical devices.”  
+  DOI: [10.1002/smll.202502225](https://doi.org/10.1002/smll.202502225) *Small*.  
 
 - Zhang, L., Gain, A.K., Zhang, M., Huang, X. “Nano-Plasticity of Fused Silica under Coupled Thermo-Mechanical Loading.”  
-  Manuscript under revision, *Acta Materialia*. 
+  Manuscript under revision, *nternational Journal of Mechanical Sciences*. 
   (PDF files are available on my [Publications page](/publications/))
 
-- Huang, Y., Zeng, Y., Ruan, H., Zhang, M., Xue, Q., Zhou, W., Hong, W., Yang, C. “Polyelectrolyte elastomer-based ionotronic electro-mechano-optical devices.”  
-  DOI: [10.1002/smll.202502225](https://doi.org/10.1002/smll.202502225) *Small*.  
+
 
 
 
