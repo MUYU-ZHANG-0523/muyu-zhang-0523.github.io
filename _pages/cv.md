@@ -14,7 +14,7 @@ author_profile: true  # 显示侧边栏作者信息
 ## Education
 - **Southern University of Science and Technology (SUSTech), Shenzhen, China**  
   Department of Mechanics and Aerospace Engineering  
-  Academic Master of Theoretical and Applied Mechanics (Expected)  
+  Academic Master of Theoretical and Applied Mechanics 
   Sept 2023 - Jun 2026  
 
 - **Tsinghua University Shenzhen International Graduate School, Shenzhen, China**  
@@ -27,29 +27,15 @@ author_profile: true  # 显示侧边栏作者信息
   Bachelor of Theoretical and Applied Mechanics  
   Sept 2019 - Jun 2023  
 
-## Publications
-- Zhang, M., Li, Z., Zhang, L. “Thermally Assisted Nanoscratching of Monocrystalline Silicon up to 800℃: Tribology and Subsurface Transformations.”  
-  DOI: [10.1016/j.wear.2026.206707](https://doi.org/10.1016/j.wear.2026.206707) *Wear*.
-
-- Huang, Y., Zeng, Y., Ruan, H., Zhang, M., Xue, Q., Zhou, W., Hong, W., Yang, C. “Polyelectrolyte elastomer-based ionotronic electro-mechano-optical devices.”  
-  DOI: [10.1002/smll.202502225](https://doi.org/10.1002/smll.202502225) *Small*.  
-
-- Zhang, L., Gain, A.K., Zhang, M., Huang, X. “Nano-Plasticity of Fused Silica under Coupled Thermo-Mechanical Loading.”  
-  Manuscript under revision, *nternational Journal of Mechanical Sciences*. 
-  (PDF files are available on my [Publications page](/publications/))
 
 
 
 
-
-## Patents
-- A Method and System for Characterizing Densification of Amorphous Materials under Mechanical Deformation.  
-  Invention Patent Application Under Review (2025).  
 
 ## Research Experience
 Detailed projects and contributions are available on my [Research page](/research/). Key highlights include:  
 - Shenzhen Key Laboratory of Soft Mechanics & Smart Manufacturing (SUSTech), advised by Prof. Canhui Yang (Sept 2021 - Jun 2023).  
-- Shenzhen Key Laboratory of Cross-scale Manufacturing Mechanics (SUSTech), advised by Chair Prof. Liangchi Zhang (Sept 2023 - Present), including NSFC Major Program participation.  
+- Shenzhen Key Laboratory of Cross-scale Manufacturing Mechanics (SUSTech), advised by Chair Prof. Liangchi Zhang (Sept 2023 - Jun 2026), including NSFC Major Program participation.  
 
 ## Teaching Experience
 For full details, visit my [Teaching page](/teaching/). Summary:  
